@@ -35,7 +35,7 @@
 
 <hr>
 
-### โปรแกรม FileFlowPro จะใช้เทคโนโลยี
+### เทคโนโลยีของโปรแกรม FileFlowPro
 
 <b>Front-end:</b>
 <br>
