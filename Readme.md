@@ -65,4 +65,4 @@
 
  ![alt text]( https://github.com/NEWSIX/FileFlowPro/blob/main/client/fileflowV1.7.gif?raw=true)
  <br> 
-- (v1.7)
+- (v1.7) (12/3/2023)
