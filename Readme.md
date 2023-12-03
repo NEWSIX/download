@@ -60,3 +60,9 @@
 + Material UI
 + Tailwind
 + Radix
+
+ <hr>
+
+ ![alt text]( https://github.com/NEWSIX/FileFlowPro/blob/main/client/fileflowV1.7.gif?raw=true)
+ <br> 
+- (v1.7)
