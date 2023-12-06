@@ -4,11 +4,17 @@
 
 * [ดาวน์โหลด Fileflow V1.7.1 (3/ธ.ค./2023)](https://drive.usercontent.google.com/download?id=1CqRH6CrWtV3Adep58A66Kjc4eXgqojbh&export=download&authuser=2&confirm=t&uuid=f86c5fca-0162-4661-bd78-e7d170831602&at=APZUnTUeVRYdKi48lhkOSZEi9D5N%3A1701599843080)
   `สามารถเลือกคอลัมของ Excel ได้เอง`
+
+  + ตั้งค่า -> ด้านล่าง -> เลือก platform
+    + คัดลอกชื่อหัวข้อคอลัม (header) ที่ระบุรหัสสินค้า เช่น `item_name` (shipnity)
+    + เลือกอักษรหว่าง ประเภท วัตถุดิบ รหสินค้า ไซซ์ เช่น sub-tk01-1173 (6XL) -> รหว่างคือ `-`
+    + เลือกอักษรก่อน ไซซ์ เช่น sub-tk01-1173 (6XL) -> ` (` (มีช่องว่างด้วย)
+  
 <br>
 
- ![alt text]( https://github.com/NEWSIX/FileFlowPro/blob/main/client/fileflowV1.7.2.gif?raw=true)
+ ![alt text]( https://github.com/NEWSIX/FileFlowPro/blob/main/content/fileflowV1.7.2.gif?raw=true)
 
- ![alt text]( https://github.com/NEWSIX/FileFlowPro/blob/main/client/excel_column.png?raw=true)
+ ![alt text]( https://github.com/NEWSIX/FileFlowPro/blob/main/content/excel_column.png?raw=true)
 
 * [ดาวน์โหลด Fileflow V1.6.7 (2/ธ.ค./2023)](https://drive.usercontent.google.com/download?id=1AWv1F_OhyxMi5IUyIH4JyiWEGvaYpCTm&export=download&authuser=2&confirm=t&uuid=4a3b13d7-7c1e-4cf9-95f1-1b101da1f8ff&at=APZUnTW4_b5_q88WotqKlmCjDaDs:1701518760474)
   
@@ -70,6 +76,6 @@
 
  <hr>
 
- ![alt text]( https://github.com/NEWSIX/FileFlowPro/blob/main/client/fileflowV1.7.gif?raw=true)
+ ![alt text]( https://github.com/NEWSIX/FileFlowPro/blob/main/content/FileFlowPro.gif?raw=true)
  <br> 
 - (v1.7) (12/3/2023)
