@@ -2,6 +2,11 @@
 * [ดาวน์โหลด Fileflow V1.7.2 (6/ธ.ค./2023)](https://drive.usercontent.google.com/download?id=1zhDHMPKqnOCyADp50V7ha-1rHBazMFbv&export=download&authuser=2&confirm=t&uuid=d524663c-19d2-42df-aee4-1c46ec3b7227&at=APZUnTXEa9dDJSDkgTaEvwSB5EYV:1701829591083)
   `รหัสสินค้าอยู่ก่อนไซซ์`
 
+  + ระบุรหัสสินค้า <b>ก่อน</b> ไซซ์เสมอ เช่น
+    +  sub-tk01-Bc14W (L) -> sub-tk01-`Bc14W` (L)
+    +  sub-tk01-FLOWER-Bc14W (L) -> sub-tk01-FLOWER-`Bc14W` (L)
+    +  sub-tk01-FLOWER-ประเทศไทย2024-`Bc14W` (L)
+
 * [ดาวน์โหลด Fileflow V1.7.1 (3/ธ.ค./2023)](https://drive.usercontent.google.com/download?id=1CqRH6CrWtV3Adep58A66Kjc4eXgqojbh&export=download&authuser=2&confirm=t&uuid=f86c5fca-0162-4661-bd78-e7d170831602&at=APZUnTUeVRYdKi48lhkOSZEi9D5N%3A1701599843080)
   `สามารถเลือกคอลัมของ Excel ได้เอง`
 
