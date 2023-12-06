@@ -1,11 +1,18 @@
 ## FILEFLOW (PIR)
+* [ดาวน์โหลด Fileflow V1.7.2 (6/ธ.ค./2023)](https://drive.usercontent.google.com/download?id=1zhDHMPKqnOCyADp50V7ha-1rHBazMFbv&export=download&authuser=2&confirm=t&uuid=d524663c-19d2-42df-aee4-1c46ec3b7227&at=APZUnTXEa9dDJSDkgTaEvwSB5EYV:1701829591083)
+  `รหัสสินค้าอยู่ก่อนไซซ์`
+
 * [ดาวน์โหลด Fileflow V1.7.1 (3/ธ.ค./2023)](https://drive.usercontent.google.com/download?id=1CqRH6CrWtV3Adep58A66Kjc4eXgqojbh&export=download&authuser=2&confirm=t&uuid=f86c5fca-0162-4661-bd78-e7d170831602&at=APZUnTUeVRYdKi48lhkOSZEi9D5N%3A1701599843080)
-  `สามารถเลือกคอลัมของ Excel`
+  `สามารถเลือกคอลัมของ Excel ได้เอง`
+<br>
 
+ ![alt text]( https://github.com/NEWSIX/FileFlowPro/blob/main/client/fileflowV1.7.2.gif?raw=true)
 
-* [ดาวน์โหลด Fileflow V1.6.7 (2/ธ.ค./2023)](https://drive.usercontent.google.com/download?id=1AWv1F_OhyxMi5IUyIH4JyiWEGvaYpCTm&export=download&authuser=2&confirm=t&uuid=4a3b13d7-7c1e-4cf9-95f1-1b101da1f8ff&at=APZUnTW4_b5_q88WotqKlmCjDaDs:1701518760474) 
+ ![alt text]( https://github.com/NEWSIX/FileFlowPro/blob/main/client/excel_column.png?raw=true)
 
-
+* [ดาวน์โหลด Fileflow V1.6.7 (2/ธ.ค./2023)](https://drive.usercontent.google.com/download?id=1AWv1F_OhyxMi5IUyIH4JyiWEGvaYpCTm&export=download&authuser=2&confirm=t&uuid=4a3b13d7-7c1e-4cf9-95f1-1b101da1f8ff&at=APZUnTW4_b5_q88WotqKlmCjDaDs:1701518760474)
+  
+* [ลิงค์สำรอง  Fileflow V1.7.2](https://drive.google.com/file/d/1zhDHMPKqnOCyADp50V7ha-1rHBazMFbv/view?usp=drive_link)
 * [ลิงค์สำรอง  Fileflow V1.7.1](https://drive.google.com/file/d/1CqRH6CrWtV3Adep58A66Kjc4eXgqojbh/view?usp=drive_link)
 * [ลิงค์สำรอง  Fileflow V1.6.7](https://drive.google.com/file/d/1AWv1F_OhyxMi5IUyIH4JyiWEGvaYpCTm/view?usp=drive_link)
 
