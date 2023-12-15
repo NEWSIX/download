@@ -1,4 +1,10 @@
 ## FILEFLOW (PIR)
+
+* [ดาวน์โหลด Fileflow V1.7.3 (15/ธ.ค./2023)](https://drive.usercontent.google.com/download?id=1RLvhjai2Y_7TVjYldvUhWJVMMoQImuAP&export=download&authuser=2&confirm=t&uuid=d2480fc6-6245-430e-bbfb-d8c607190f65&at=APZUnTVc-8ipPsKup-aBnrkwamhi:1702602078942)
+  `flash excel `
+
+  + แก้ไขจำนวนของออเดอร์
+
 * [ดาวน์โหลด Fileflow V1.7.2 (6/ธ.ค./2023)](https://drive.usercontent.google.com/download?id=1zhDHMPKqnOCyADp50V7ha-1rHBazMFbv&export=download&authuser=2&confirm=t&uuid=d524663c-19d2-42df-aee4-1c46ec3b7227&at=APZUnTXEa9dDJSDkgTaEvwSB5EYV:1701829591083)
   `รหัสสินค้าอยู่ก่อนไซซ์`
 
