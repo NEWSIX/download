@@ -1,5 +1,10 @@
 ## FILEFLOW (PIR)
 
+* [ดาวน์โหลด Fileflow V1.7.5 (21/ธ.ค./2023)](https://drive.usercontent.google.com/download?id=1sZp2-02Z-trcWT_atzUj0dPKz401IPhE&export=download&authuser=2&confirm=t&uuid=aa406def-03d6-48eb-b75e-023dc93a50bd&at=APZUnTWXLy6XODFmGIxIcsF0LlwH:1703130848941)
+  `classic excel`
+
+  + แก้ไขจำนวนสินค้าที่ไปรวมกับรายการอื่น
+
 * [ดาวน์โหลด Fileflow V1.7.4 (16/ธ.ค./2023)](https://drive.usercontent.google.com/download?id=1iTXnXtsYlSjXnj501TtA493g711ryULn&export=download&authuser=2&confirm=t&uuid=51eae5f3-17d7-41b9-b0cc-9cd56be33890&at=APZUnTVYl17mo0wtqE5a79xOr4nZ:1702727145928)
   `grouping , folder`
 
